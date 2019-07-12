@@ -2,6 +2,7 @@ version: 2.0
 id: test-colophon-repo-5
 about:
   title: test-colophon-repo-5
+  description: adding a description, to change the last updated time
 contacts:
   - name: Matt Seburn
     email: matt.seburn@telus.com
